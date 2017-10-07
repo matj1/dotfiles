@@ -1,7 +1,6 @@
 
 set number	" Show line numbers
 set linebreak	" Break lines at word (requires Wrap lines)
-set textwidth=100	" Line wrap (number of cols)
 set showmatch	" Highlight matching brace
 set visualbell	" Use visual bell (no beeping)
  
