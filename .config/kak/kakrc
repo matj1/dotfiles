@@ -1,0 +1,14 @@
+# line numbers
+hook global WinCreate .* %{addhl number_lines}
+
+# movement remap for colemak
+map global normal h k 
+map global normal j h 
+map global normal k j
+map global normal H K 
+map global normal J H 
+map global normal K J
+
+# colorscheme
+colorscheme solarized
+
