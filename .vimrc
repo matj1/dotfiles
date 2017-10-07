@@ -1,6 +1,10 @@
 
 set number	" Show line numbers
 set linebreak	" Break lines at word (requires Wrap lines)
+<<<<<<< HEAD
+=======
+set textwidth=100	" Line wrap (number of cols)
+>>>>>>> 88a2b001e58f46e526d699bb3f346f3ee9a15683
 set showmatch	" Highlight matching brace
 set visualbell	" Use visual bell (no beeping)
  
