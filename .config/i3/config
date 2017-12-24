@@ -179,4 +179,5 @@ bindsym $mod+Escape exec i3lock -c 010D10
 
 # automaticky spustit příkazy
 exec ~/.fehbg # nastavit pozadí
-exec --no-startup-id steam -silent %U 
+exec --no-startup-id steam -silent
+exec compton
