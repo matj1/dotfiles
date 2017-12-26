@@ -122,7 +122,7 @@ bindsym $mod+Shift+c reload
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
 bindsym $mod+Shift+r restart
 # exit i3 (logs you out of your X session) or shutdown or reboot
-bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'Exit menu' -b 'Log out' 'i3-msg exit' -b 'Shutdown' 'shutdown +0' -b 'Reboot' 'reboot'"
+bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'Exit menu' -b 'Log out' 'i3-msg exit' -b 'Shutdown' 'shutdown +0' -b 'Reboot' 'reboot' -b 'Suspend' 'systemctl suspend'"
 
 # resize window (you can also use the mouse for that)
 mode "resize" {
@@ -153,7 +153,7 @@ bindsym $mod+r mode "resize"
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
 bar {
-        status_command i3blocks
+        status_command i3status
 	position top
 }
 

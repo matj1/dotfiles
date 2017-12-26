@@ -13,6 +13,7 @@ general {
         color_bad = "#ff0000"
         color_degraded = "#c08000"
         color_separator = "#ffffff"
+        separator = " | "
 }
 
 
