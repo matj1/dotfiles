@@ -33,3 +33,7 @@ set belloff=cursor
 
 " keep cursor at centre of screen
 set scrolloff=64
+
+" colorscheme
+colorscheme base16-default-dark
+
