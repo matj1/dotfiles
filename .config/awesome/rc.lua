@@ -10,9 +10,8 @@ local beautiful = require("beautiful")
 local naughty = require("naughty")
 local menubar = require("menubar")
 local hotkeys_popup = require("awful.hotkeys_popup").widget
-
--- Load Debian menu entries
-require("debian.menu")
+-- Volume arc
+require("awesome-wm-widgets/volumearc-widget/volumearc")
 
 -- {{{ Error handling
 -- Check if awesome encountered an error during startup and fell back to
@@ -41,7 +40,9 @@ end
 
 -- {{{ Variable definitions
 -- Themes define colours, icons, font and wallpapers.
-beautiful.init(awful.util.get_themes_dir() .. "default/theme.lua")
+theme_setting = "zenburn"
+beautiful.init(awful.util.get_themes_dir() .. theme_setting .. "/theme.lua")
+--beautiful.init("/home/matj1/.config/awesome/themes/" .. theme_setting .. "/theme.lua")
 
 -- This is used later as the default terminal and editor to run.
 terminal = "rxvt-unicode"
@@ -103,7 +104,6 @@ myawesomemenu = {
 }
 
 mymainmenu = awful.menu({ items = { { "awesome", myawesomemenu, beautiful.awesome_icon },
-                                    -- { "Debian", debian.menu.Debian_menu.Debian },
                                     { "open terminal", terminal }
                                   }
                         })
@@ -220,6 +220,7 @@ awful.screen.connect_for_each_screen(function(s)
             layout = wibox.layout.fixed.horizontal,
             mykeyboardlayout,
             wibox.widget.systray(),
+            volumearc_widget,
             mytextclock,
             s.mylayoutbox,
         },
@@ -511,7 +512,7 @@ client.connect_signal("request::titlebars", function(c)
         end)
     )
 
-    awful.titlebar(c) : setup {
+    awful.titlebar(c, {size = 16}) : setup {
         { -- Left
             awful.titlebar.widget.iconwidget(c),
             buttons = buttons,
