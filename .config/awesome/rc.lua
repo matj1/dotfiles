@@ -40,8 +40,8 @@ end
 
 -- {{{ Variable definitions
 -- Themes define colours, icons, font and wallpapers.
-theme_setting = "zenburn"
-beautiful.init(awful.util.get_themes_dir() .. theme_setting .. "/theme.lua")
+theme_setting = "mine"
+beautiful.init(awful.util.getdir("config") .. "/themes/" .. theme_setting .. "/theme.lua")
 --beautiful.init("/home/matj1/.config/awesome/themes/" .. theme_setting .. "/theme.lua")
 
 -- This is used later as the default terminal and editor to run.
