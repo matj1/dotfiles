@@ -10,8 +10,8 @@ local beautiful = require("beautiful")
 local naughty = require("naughty")
 local menubar = require("menubar")
 local hotkeys_popup = require("awful.hotkeys_popup").widget
--- Volume arc
-require("awesome-wm-widgets/volumearc-widget/volumearc")
+---- Volume arc
+--require("awesome-wm-widgets/volumearc-widget/volumearc")
 
 -- {{{ Error handling
 -- Check if awesome encountered an error during startup and fell back to
@@ -220,7 +220,7 @@ awful.screen.connect_for_each_screen(function(s)
             layout = wibox.layout.fixed.horizontal,
             mykeyboardlayout,
             wibox.widget.systray(),
-            volumearc_widget,
+            --volumearc_widget,
             mytextclock,
             s.mylayoutbox,
         },
@@ -527,6 +527,7 @@ client.connect_signal("request::titlebars", function(c)
             layout  = wibox.layout.flex.horizontal
         },
         { -- Right
+	    awful.titlebar.widget.minimizebutton (c),
             awful.titlebar.widget.floatingbutton (c),
             awful.titlebar.widget.maximizedbutton(c),
             awful.titlebar.widget.stickybutton   (c),

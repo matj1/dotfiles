@@ -10,9 +10,8 @@ local beautiful = require("beautiful")
 local naughty = require("naughty")
 local menubar = require("menubar")
 local hotkeys_popup = require("awful.hotkeys_popup").widget
-
--- Load Debian menu entries
-require("debian.menu")
+---- Volume arc
+--require("awesome-wm-widgets/volumearc-widget/volumearc")
 
 -- {{{ Error handling
 -- Check if awesome encountered an error during startup and fell back to
@@ -41,10 +40,12 @@ end
 
 -- {{{ Variable definitions
 -- Themes define colours, icons, font and wallpapers.
-beautiful.init(awful.util.get_themes_dir() .. "default/theme.lua")
+theme_setting = "mine"
+beautiful.init(awful.util.getdir("config") .. "/themes/" .. theme_setting .. "/theme.lua")
+--beautiful.init("/home/matj1/.config/awesome/themes/" .. theme_setting .. "/theme.lua")
 
 -- This is used later as the default terminal and editor to run.
-terminal = "x-terminal-emulator"
+terminal = "rxvt-unicode"
 editor = os.getenv("EDITOR") or "editor"
 editor_cmd = terminal .. " -e " .. editor
 
@@ -73,6 +74,7 @@ awful.layout.layouts = {
     -- awful.layout.suit.corner.ne,
     -- awful.layout.suit.corner.sw,
     -- awful.layout.suit.corner.se,
+    --
 }
 -- }}}
 
@@ -102,7 +104,6 @@ myawesomemenu = {
 }
 
 mymainmenu = awful.menu({ items = { { "awesome", myawesomemenu, beautiful.awesome_icon },
-                                    { "Debian", debian.menu.Debian_menu.Debian },
                                     { "open terminal", terminal }
                                   }
                         })
@@ -184,7 +185,7 @@ awful.screen.connect_for_each_screen(function(s)
     set_wallpaper(s)
 
     -- Each screen has its own tag table.
-    awful.tag({ "1", "2", "3", "4", "5", "6", "7", "8", "9" }, s, awful.layout.layouts[1])
+    awful.tag({ "1", "2", "3", "4", "5", "6", "7", "8", "9" }, s, awful.layout.layouts[2])
 
     -- Create a promptbox for each screen
     s.mypromptbox = awful.widget.prompt()
@@ -203,7 +204,7 @@ awful.screen.connect_for_each_screen(function(s)
     s.mytasklist = awful.widget.tasklist(s, awful.widget.tasklist.filter.currenttags, tasklist_buttons)
 
     -- Create the wibox
-    s.mywibox = awful.wibar({ position = "top", screen = s })
+    s.mywibox = awful.wibar({ position = "top", screen = s, height = 16})
 
     -- Add widgets to the wibox
     s.mywibox:setup {
@@ -219,6 +220,7 @@ awful.screen.connect_for_each_screen(function(s)
             layout = wibox.layout.fixed.horizontal,
             mykeyboardlayout,
             wibox.widget.systray(),
+            --volumearc_widget,
             mytextclock,
             s.mylayoutbox,
         },
@@ -510,7 +512,7 @@ client.connect_signal("request::titlebars", function(c)
         end)
     )
 
-    awful.titlebar(c) : setup {
+    awful.titlebar(c, {size = 16}) : setup {
         { -- Left
             awful.titlebar.widget.iconwidget(c),
             buttons = buttons,
@@ -546,4 +548,8 @@ end)
 
 client.connect_signal("focus", function(c) c.border_color = beautiful.border_focus end)
 client.connect_signal("unfocus", function(c) c.border_color = beautiful.border_normal end)
+-- }}}
+
+-- {{{ Autorun
+awful.spawn.with_shell("~/.config/awesome/autorun.sh")
 -- }}}
