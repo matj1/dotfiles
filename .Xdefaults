@@ -6,7 +6,7 @@ URxvt.url-launcher: /usr/bin/xdg-open
 URxvt.matcher.button: 1
 
 URxvt.scrollBar: False
-URxvt.font: xft:terminus:size=10
+URxvt.font: xft:terminus:size=8
 
 !! default colors (but black background and white text
 !*.background: #000000

@@ -6,7 +6,7 @@ configuration {
 /*	font: "mono 12";*/
 /*	bw: 1;*/
 /*	location: 0;*/
-/*	padding: 5;*/
+	padding: 8;
 /*	yoffset: 0;*/
 /*	xoffset: 0;*/
 /*	fixed-num-lines: true;*/
