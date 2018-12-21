@@ -1,39 +1,50 @@
-set number	" Show line numbers
-set linebreak	" Break lines at word (requires Wrap lines)
-set showmatch	" Highlight matching brace
-set visualbell	" Use visual bell (no beeping)
- 
-set hlsearch	" Highlight all search results
-set smartcase	" Enable smart-case search
-set ignorecase	" Always case-insensitive
-set incsearch	" Searches for strings incrementally
+"" Plugins
+call plug#begin()
+Plug 'vim-airline/vim-airline'
+Plug 'junegunn/goyo.vim'
+Plug 'tpope/vim-rsi'
+call plug#end()
 
-set autoindent	" Auto-indent new lines
-set expandtab	" Use spaces instead of tabs
-set shiftwidth=4	" Number of auto-indent spaces
-set smartindent	" Enable smart-indent
-set smarttab	" Enable smart-tabs
-set softtabstop=4	" Number of spaces per Tab
+set number relativenumber " Show line numbers
+set linebreak " Break lines at word (requires Wrap lines)
+set showmatch " Highlight matching brace
+set visualbell " Use visual bell (no beeping)
+set belloff=cursor " disable bell for movement at line edge
 
-set relativenumber " nuber lines relative to current
+set autoindent " Auto-indent new lines
+set expandtab " Use spaces instead of tabs
+set shiftwidth=4 " Number of auto-indent spaces
+set smartindent " Enable smart-indent
+set smarttab " Enable smart-tabs
+set softtabstop=4 " Number of spaces per Tab
 
-" change directions for colemak
-set langmap=jh,hk,kj
+set splitbelow splitright " have cursor on right or bottom split window
 
-noremap <C-W>j <C-W>h
-noremap <C-W>k <C-W>j
-noremap <C-W>h <C-W>k
+set hidden " hide abandoned buffers
+set confirm " ask to save changes before quitting
 
-noremap <C-W>J <C-W>H
-noremap <C-W>K <C-W>J
-noremap <C-W>H <C-W>K
+set scrolloff=64 " keep cursor at centre of screen
 
-" disable bell for movement at line edge
-set belloff=cursor
+let mapleader=" " " map leader to space
+set virtualedit=block " unlimited movement in visual block mode and ability to go one char past the end of the line
 
-" keep cursor at centre of screen
-set scrolloff=64
+"" View whitespace
+set list
+set listchars=tab:‣\ ,trail:•,nbsp:␣
 
-" colorscheme
-colorscheme base16-default-dark
+"" Searching
+set hlsearch " highlight all search results
+set smartcase " enable smart-case search
+set ignorecase " always case-insensitive
+set incsearch " searches for strings incrementally
 
+"" Mappings
+map <leader>c :Goyo<CR>
+
+function! NewBullet()
+    let l = getline('.')
+    let l = substitute(l, '\w.*$','', '')
+    let l = substitute(l, '^\s*','', '')
+    return "\n" . l
+endfunction
+inoremap <expr> <M-CR> NewBullet()
