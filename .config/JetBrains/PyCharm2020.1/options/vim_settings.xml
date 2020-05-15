@@ -1,0 +1,358 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>read=true</entry>
+        <entry>http.*domain\.com.*order=asc.*read=true</entry>
+        <entry>java.lang.O</entry>
+        <entry>handle</entry>
+        <entry>handleStart</entry>
+        <entry>Unreach</entry>
+        <entry>actory</entry>
+        <entry>return null</entry>
+        <entry>set</entry>
+        <entry>error</entry>
+        <entry>ApplicationOp</entry>
+        <entry>null</entry>
+        <entry>getTemp</entry>
+        <entry>throw</entry>
+        <entry>var</entry>
+        <entry>dtypes</entry>
+        <entry>strp</entry>
+        <entry>non</entry>
+        <entry>support</entry>
+        <entry>Naïve</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zLz0vPT0=</entry>
+        <entry encoding="base64">JzwsJz5zLzsvICYm</entry>
+        <entry encoding="base64">JzwsJz5zLzsvIFwmXCY=</entry>
+        <entry encoding="base64">JzwsJz5zLzsvID0gbnVsbDs=</entry>
+        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
+        <entry>e URLSegment.java</entry>
+        <entry encoding="base64">JzwsJz5zL2phdmEubGFuZy5PL08=</entry>
+        <entry>wa</entry>
+        <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zL2R0eXBlcy9kYXRhVHlwZXM=</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/repa/new/src/test/scala/matj1/new/TemplateReaderTests.scala" timestamp="1580466681550">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/repa/new/src/main/scala/matj1/new/filetree/FileNode.scala" timestamp="1580464065886">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589472148932">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repa/new/src/test/scala/matj1/new/NewTests.scala" timestamp="1580466693532">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1589454924592">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repa/new/build.sbt" timestamp="1579983318113">
+        <mark key="[" line="17" column="44" />
+        <mark key="]" line="16" column="28" />
+        <mark key="." line="16" column="28" />
+        <mark key="^" line="16" column="28" />
+      </file>
+      <file name="/tutorial07.ipynb" timestamp="1586160205663">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dokumenty/předměty/úvod_do_strojového_učení/projekt/.gitignore" timestamp="1586364685328">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/Dokumenty/předměty/úvod_do_strojového_učení/tutorial09.ipynb" timestamp="1587985276378">
+        <mark key="'" line="278" column="260" />
+        <mark key="[" line="148" column="7" />
+        <mark key="]" line="148" column="7" />
+        <mark key="." line="148" column="6" />
+        <mark key="^" line="148" column="7" />
+      </file>
+      <file name="$USER_HOME$/Dokumenty/předměty/úvod_do_strojového_učení/tutorial11.ipynb" timestamp="1589184147397">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="31" />
+        <mark key="^" line="3" column="31" />
+        <mark key="." line="3" column="30" />
+      </file>
+      <file name="/usr/lib/python3.8/datetime.py" timestamp="1587065552642">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/sbtShell" timestamp="1584140143483">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repa/new/src/main/scala/matj1/new/TemplateProcessor.scala" timestamp="1583515214663">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="/main.ipynb" timestamp="1586366578375">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="4" />
+        <mark key="^" line="11" column="72" />
+        <mark key="." line="19" column="4" />
+      </file>
+      <file name="$USER_HOME$/repa/new/src/main/scala/matj1/new/New.scala" timestamp="1583511384564">
+        <mark key="'" line="94" column="16" />
+        <mark key="[" line="37" column="24" />
+        <mark key="]" line="22" column="30" />
+        <mark key="." line="22" column="30" />
+        <mark key="^" line="22" column="30" />
+      </file>
+      <file name="$USER_HOME$/Dokumenty/předměty/úvod_do_strojového_učení/tutorial08.ipynb" timestamp="1587983937796">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="80" column="59" />
+        <mark key="." line="278" column="113" />
+        <mark key="^" line="278" column="114" />
+      </file>
+      <file name="$USER_HOME$/repa/new/src/main/scala/matj1/new/TemplateReader.scala" timestamp="1583509999849">
+        <mark key="'" line="74" column="51" />
+        <mark key="[" line="68" column="19" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dokumenty/předměty/úvod_do_strojového_učení/tutorial07.ipynb" timestamp="1587983606058">
+        <mark key="'" line="118" column="81" />
+      </file>
+      <file name="$USER_HOME$/Dokumenty/předměty/úvod_do_strojového_učení/projekt/poznámky.md" timestamp="1589453861150">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="3" column="40" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="133" column="13" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/main/java/cz/muni/fi/pb162/hw01/impl/Url.java" />
+      <jump line="129" column="8" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/main/java/cz/muni/fi/pb162/hw01/impl/Url.java" />
+      <jump line="23" column="28" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/main/java/cz/muni/fi/pb162/hw01/impl/Url.java" />
+      <jump line="175" column="0" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="153" column="69" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="154" column="29" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="148" column="66" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="149" column="29" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="102" column="42" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="38" column="48" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="112" column="45" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="48" column="26" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="61" column="38" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="27" column="44" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="143" column="0" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="172" column="19" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/main/java/cz/muni/fi/pb162/hw01/impl/Url.java" />
+      <jump line="105" column="23" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/main/java/cz/muni/fi/pb162/hw01/impl/Url.java" />
+      <jump line="94" column="31" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="95" column="31" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="96" column="31" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="97" column="31" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="172" column="23" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="174" column="35" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="187" column="28" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="189" column="35" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="71" column="29" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="73" column="19" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="74" column="19" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="75" column="19" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="76" column="19" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="81" column="36" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="13" column="29" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="18" column="35" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="20" column="48" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="21" column="35" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="22" column="35" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="31" column="8" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/main/java/cz/muni/fi/pb162/hw01/impl/Url.java" />
+      <jump line="33" column="19" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/main/java/cz/muni/fi/pb162/hw01/impl/Url.java" />
+      <jump line="44" column="44" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/main/java/cz/muni/fi/pb162/hw01/impl/Url.java" />
+      <jump line="45" column="48" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/main/java/cz/muni/fi/pb162/hw01/impl/Url.java" />
+      <jump line="46" column="54" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/main/java/cz/muni/fi/pb162/hw01/impl/Url.java" />
+      <jump line="58" column="29" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/main/java/cz/muni/fi/pb162/hw01/impl/Url.java" />
+      <jump line="59" column="37" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/main/java/cz/muni/fi/pb162/hw01/impl/Url.java" />
+      <jump line="60" column="71" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/main/java/cz/muni/fi/pb162/hw01/impl/Url.java" />
+      <jump line="61" column="16" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/main/java/cz/muni/fi/pb162/hw01/impl/Url.java" />
+      <jump line="63" column="67" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/main/java/cz/muni/fi/pb162/hw01/impl/Url.java" />
+      <jump line="54" column="48" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/main/java/cz/muni/fi/pb162/hw01/impl/Url.java" />
+      <jump line="55" column="65" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/main/java/cz/muni/fi/pb162/hw01/impl/Url.java" />
+      <jump line="276" column="0" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/main/java/cz/muni/fi/pb162/hw01/impl/Url.java" />
+      <jump line="67" column="24" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/main/java/cz/muni/fi/pb162/hw01/impl/Url.java" />
+      <jump line="132" column="12" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/main/java/cz/muni/fi/pb162/hw01/impl/Url.java" />
+      <jump line="19" column="21" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/main/java/cz/muni/fi/pb162/hw01/impl/Url.java" />
+      <jump line="24" column="4" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="29" column="101" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="30" column="98" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="31" column="99" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="32" column="87" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="33" column="34" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="66" column="27" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="15" column="37" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="16" column="31" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="17" column="31" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="19" column="31" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw01-url/src/test/java/cz/muni/fi/pb162/hw01/impl/SmartUrlTest.java" />
+      <jump line="22" column="14" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw02-crawler/src/main/java/cz/muni/fi/pb162/hw02/impl/Crawler.java" />
+      <jump line="9" column="7" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw02-crawler/src/main/java/cz/muni/fi/pb162/hw02/impl/GetUrlParser.java" />
+      <jump line="1787" column="36" filename="/usr/lib/jvm/java-11-openjdk!/java.desktop/javax/swing/text/html/parser/Parser.class" />
+      <jump line="1796" column="12" filename="/usr/lib/jvm/java-11-openjdk!/java.desktop/javax/swing/text/html/parser/Parser.class" />
+      <jump line="82" column="19" filename="/usr/lib/jvm/java-11-openjdk!/java.desktop/javax/swing/text/html/parser/Parser.class" />
+      <jump line="85" column="19" filename="/usr/lib/jvm/java-11-openjdk!/java.desktop/javax/swing/text/html/parser/Parser.class" />
+      <jump line="86" column="13" filename="/usr/lib/jvm/java-11-openjdk!/java.desktop/javax/swing/text/html/parser/Parser.class" />
+      <jump line="208" column="17" filename="/usr/lib/jvm/java-11-openjdk!/java.desktop/javax/swing/text/html/parser/Parser.class" />
+      <jump line="115" column="19" filename="/usr/lib/jvm/java-11-openjdk!/java.desktop/javax/swing/text/html/parser/Parser.class" />
+      <jump line="62" column="0" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw02-crawler/src/test/java/cz/muni/fi/pb162/hw02/impl/CrawlerTest.java" />
+      <jump line="20" column="13" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/impl/FSWalkResultImpl.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/filesystem/SearchEntry.java" />
+      <jump line="56" column="16" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/filesystem/SearchEntry.java" />
+      <jump line="36" column="16" filename="$USER_HOME$/Dokumenty/předměty/programování_java/pb162/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/filesystem/SearchEntry.java" />
+      <jump line="98" column="16" filename="$USER_HOME$/Dokumenty/předměty/neimperativní_programování/dú/12/zadani12.hs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dokumenty/předměty/vyčíslitelnost_a_složitost/dú/main.tex" />
+      <jump line="1" column="14" filename="$USER_HOME$/repa/new/thoughts/structure.yml" />
+      <jump line="2" column="6" filename="$USER_HOME$/repa/new/thoughts/structure.yml" />
+      <jump line="69" column="38" filename="$USER_HOME$/repa/new/src/main/scala/matj1/new/New.scala" />
+      <jump line="72" column="16" filename="$USER_HOME$/repa/new/src/main/scala/matj1/new/New.scala" />
+      <jump line="75" column="4" filename="$USER_HOME$/repa/new/src/main/scala/matj1/new/New.scala" />
+      <jump line="31" column="22" filename="$USER_HOME$/repa/new/src/main/scala/matj1/new/New.scala" />
+      <jump line="63" column="16" filename="$USER_HOME$/repa/new/src/main/scala/matj1/new/New.scala" />
+      <jump line="29" column="0" filename="$USER_HOME$/repa/new/src/main/scala/matj1/new/New.scala" />
+      <jump line="36" column="0" filename="$USER_HOME$/repa/new/src/main/scala/matj1/new/New.scala" />
+      <jump line="103" column="24" filename="$USER_HOME$/repa/new/src/main/scala/matj1/new/New.scala" />
+      <jump line="92" column="16" filename="$USER_HOME$/repa/new/src/main/scala/matj1/new/New.scala" />
+      <jump line="5" column="4" filename="$USER_HOME$/repa/new/src/test/scala/matj1/new/NewTests.scala" />
+      <jump line="74" column="51" filename="$USER_HOME$/repa/new/src/main/scala/matj1/new/TemplateReader.scala" />
+      <jump line="43" column="67" filename="$USER_HOME$/Dokumenty/předměty/úvod_do_strojového_učení/projekt/main.ipynb" />
+      <jump line="0" column="0" filename="/usr/lib/python3.8/datetime.py" />
+      <jump line="94" column="21" filename="$USER_HOME$/Dokumenty/předměty/úvod_do_strojového_učení/tutorial09.ipynb" />
+      <jump line="285" column="0" filename="$USER_HOME$/Dokumenty/předměty/úvod_do_strojového_učení/tutorial09.ipynb" />
+      <jump line="278" column="260" filename="$USER_HOME$/Dokumenty/předměty/úvod_do_strojového_učení/tutorial09.ipynb" />
+      <jump line="2" column="0" filename="$USER_HOME$/Dokumenty/předměty/úvod_do_strojového_učení/tutorial07.ipynb" />
+      <jump line="118" column="81" filename="$USER_HOME$/Dokumenty/předměty/úvod_do_strojového_učení/tutorial07.ipynb" />
+      <jump line="318" column="24" filename="$USER_HOME$/Dokumenty/předměty/úvod_do_strojového_učení/projekt/main.ipynb" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyUlIG1kCgojIyBPZHN0csOhbmVuaWUgbmFkYnl0b8SNbsO9Y2ggYXRyaWLDunRvdgoKIyUlIG1kCgpBdHJpYsO6dHkgIkNPTU1FTlRfSUQiIGEgIkFVVEhPUiIgbmVidWTDuiBwcmkgdcSNZW7DrSBwb3RyZWJuw6ksIHByZXRvIGljaCBvZHN0csOhbmltZS4KCiMlJQoKY29uY2RUYWJsZSA9IGNvbmNkVGFibGUuZHJvcChjb2x1bW5zPVsiQ09NTUVOVF9JRCIsIkFVVEhPUiJdKQpjb25jZFRhYmxlLmluZm8oKQoKIyUlIG1kCgojIyBCYWctb2Ytd29yZHMKCiMlJSBtZAoKTmEgc3ByYWNvdmFuaWUgc2Ftb3Ruw6lobyB0ZXh0b3bDqWhvIG9ic2FodSBrb21lbnTDoXJhIHBvdcW+aWplbWUgdHp2LiBtZXTDs2R1ICJCYWctb2Ytd29yZHMiLgpLYcW+ZMOhIHNwcsOhdmEgc2Egc2tsYWTDoSB6IDxpPm48L2k+IHNsb3YgKHV2YcW+dWplbWUgbGVuIHNsb3bDoSBkxLrFvmt5IGR2YSBhIHZpYWMpLiBLYcW+ZMOpIHNsb3ZvIGplIHRlZGEgbW/Fvm7DqSByZXByZXplbnRvdmHFpSB2ZWt0b3JvbSwga2RlIGhvZG5vdHkgdmVrdG9yYSBidWTDuiByZXByZXplbnRvdmHFpSBwb8SNZXQgdsO9c2t5dG92IGRhbsOpaG8gc2xvdmEgdiBzcHLDoXZlLgpWw71zbGVkbsOpIHZla3RvcnkgdWxvxb7DrW1lIGRvIG5vdsOpaG8gYXRyaWLDunR1ICJWRUNUT1IiLgpVUkwgb2RrYXp5IG5lYnVkZW1lIHJlcHJlemVudG92YcWlIGFrbyBzbG92bywgbmFtaWVzdG8gdG9obyB2eXR2b3LDrW1lIG5vdsO9IGF0cmliw7p0ICJDT05UQUlOU19VUkwiLCBrdG9yw6lobyBuw6F6b3YgamUgc2Ftb3Z5c3ZldGx1asO6Y2kuCgpUZWNobmlreSBha28gInN0ZW1taW5nIiBhICJzdG9wIHdvcmRzIHJlbW92YWwiIHBvdcW+w612YcWlIG5lYnVkZW1lIGt2w7RsaSBjaGFyYWt0ZXJ1IFlvdVR1YmUga29tZW50w6Fyb3YsIGt0b3LDqSBiw712YWrDuiBrcsOhdGtlLCDEjWFzdG8gb2JzYWh1asO6IHNrcmF0a3kgYSBuZXNwaXNvdm7DqSB2w71yYXp5LgpWIMSNbMOhbmt1IGFzb2Npb3Zhbm9tIHMgZGF0YXNldG9tIGF1dG9yaSB0dnJkaWEsIMW+ZSB0aWV0byB0ZWNobmlreSBieSBwcmF2ZGVwb2RvYm5lIHZpZWRsaSBrIHpob3LFoWVuaXUgdsO9c2xlZGtvdi4KCiMlJQoKaW1wb3J0IG51bXB5IGFzIG5wCgp3b3JkU2V0ID0gc2V0KCkKd29yZExpc3QgPSBbXQpmb3IgY29udGVudCBpbiBjb25jZFRhYmxlWyJDT05URU5UIl06CiAgICBmb3Igd29yZCBpbiBjb250ZW50LnNwbGl0KCk6CiAgICAgICAgaWYgKGxlbih3b3JkKSA+PSAyIGFuZCBub3Qgd29yZCBpbiB3b3JkU2V0KToKICAgICAgICAgICAgd29yZFNldC5hZGQod29yZCkKICAgICAgICAgICAgd29yZExpc3QuYXBwZW5kKHdvcmQpCgpwcmludCgiVGhlcmUgYXJlICIgKyBzdHIobGVuKHdvcmRMaXN0KSkgKyAiIGRpc3RpbmN0IHdvcmRzIG9mIHR3byBvciBtb3JlIHN5bWJvbHMiKQoKVVJMQWRkcmVzc2VzID0gc2V0KGZpbHRlcihsYW1iZGEgeDogIndhdGNoP3Y9IiBpbiB4IG9yICJodHRwczovLyIgaW4geCBvciAiaHR0cDovLyIgaW4geCwgd29yZExpc3QpKQpwcmludCgiV2UgaGF2ZSBmb3VuZCAiICsgc3RyKGxlbihVUkxBZGRyZXNzZXMpKSArICIgZGlzdGluY3QgVVJMIGFkZHJlc3NlcyIpCgp3b3JkTGlzdCA9IGxpc3QoIGZpbHRlcihsYW1iZGEgeDogbm90IHggaW4gVVJMQWRkcmVzc2VzLCB3b3JkTGlzdCkgKSAjUmVtb3ZlIFVSTHMKd29yZERpY3QgPSBkaWN0KCB6aXAoIHdvcmRMaXN0LCByYW5nZSggbGVuKHdvcmRMaXN0KSApICkgKSNDcmVhdGUgZGljdGlvbmFyeSBvZiB3b3JkcyBhbmQgdGhlaXIgaW5kZXhlcyBmb3IgZmFzdGVyIHNlYXJjaAoKCiMgVnl0dm9yaW1lIHZla3RvcnkKY29udGFpbnNVUkwgPSBbRmFsc2VdICogY29uY2RUYWJsZVsiREFURSJdLnNpemUKdmVjdG9ycyA9IFtdCmZvciBpbmRleCwgY29udGVudCBpbiBlbnVtZXJhdGUoY29uY2RUYWJsZVsiQ09OVEVOVCJdKToKICAgIHZlY3RvciA9IFswXSAqIGxlbih3b3JkTGlzdCkKICAgIGZvciB3b3JkIGluIGNvbnRlbnQuc3BsaXQoKToKICAgICAgICBpZiAod29yZCBpbiBVUkxBZGRyZXNzZXMpOgogICAgICAgICAgICBjb250YWluc1VSTFtpbmRleF0gPSBUcnVlCiAgICAgICAgZWxpZiAobGVuKHdvcmQpID49IDIpOgogICAgICAgICAgICB2ZWN0b3Jbd29yZERpY3Rbd29yZF1dICs9IDEKICAgIHZlY3RvcnMuYXBwZW5kKHZlY3RvcikKCiMgVnl0dm9yaW1lIG5vdmUgYXRyaWJ1dHkKY29uY2RUYWJsZVsiQ09OVEFJTlNfVVJMIl0gPSBjb250YWluc1VSTApjb25jZFRhYmxlWyJWRUNUT1IiXSA9IHZlY3RvcnMKCmNvbmNkVGFibGUuaW5mbygpCmNvbmNkVGFibGVbIlZFQ1RPUiJdCgojIFRPRE86IG5vcm1hbGl6b3ZhdCB2ZWt0b3J5CgojJSUgbWQKClByZSB1xI1lbmllIHBsw6FudWplbWUgdnlicmHFpSB0cmkgeiBuw6FzbGVkw7pqw7pjaWNoIG1vZGVsb3Y6Ci0gRGVjaXNpb24gdHJlZXMKLSBMb2dpc3RpYyByZWdyZXNzaW9uCi0gQmVybm91bGxpIE5hw692ZSBCYXllcwotIFN1cHBvcnQgdmVjdG9yIG1hY2hpbmVzIHdpdGggbGluZWFyIGtlcm5lbAotIFN1cHBvcnQgdmVjdG9yIG1hY2hpbmVzIHdpdGggR2F1c3NpYW4ga2VybmVsCi0gUmFuZG9tIGZvcmVzdHMKClRpZXRvIG1vZGVseSBmdW5nb3ZhbGkgcG9kxL5hIGF1dG9yb3YgZGF0YXNldHUgbmFqbGVwxaFpZS4KCiMlJQoKdGVtcFRhYmxlcyA9IGRlZXBjb3B5KHJhd1RhYmxlcykKCmZvciB2aWRlb0luZGV4LCB0YWJsZSBpbiBlbnVtZXJhdGUodGVtcFRhYmxlcyk6CiAgICB0YWJsZVsiVklERU8iXSA9IHZpZGVvSW5kZXgKCmNvbmNkVGFibGUgPSBwZC5jb25jYXQodGVtcFRhYmxlcykKY29uY2RUYWJsZS5pbmZvKCkKCg==</text>
+      </register>
+      <register name="c" type="4">
+        <text>strat</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">PA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>Naïve</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNsYXNzaWZpZXIgPSBEdW1teUNsYXNzaWZpZXIoc3RyYXQpLmZpdCh0aXRhbmljX3RyYWluX1gsIHRpdGFuaWNfdHJhaW5feSkKICAgIHByaW50KGNsYXNzaWZpZXIuc2NvcmUodGl0YW5pY190ZXN0X1gsIHRpdGFuaWNfdGVzdF95KSkK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">IyUlIG1kCgojIyBPZHN0csOhbmVuaWUgbmFkYnl0b8SNbsO9Y2ggYXRyaWLDunRvdgoKIyUlIG1kCgpBdHJpYsO6dHkgIkNPTU1FTlRfSUQiIGEgIkFVVEhPUiIgbmVidWTDuiBwcmkgdcSNZW7DrSBwb3RyZWJuw6ksIHByZXRvIGljaCBvZHN0csOhbmltZS4KCiMlJQoKY29uY2RUYWJsZSA9IGNvbmNkVGFibGUuZHJvcChjb2x1bW5zPVsiQ09NTUVOVF9JRCIsIkFVVEhPUiJdKQpjb25jZFRhYmxlLmluZm8oKQoKIyUlIG1kCgojIyBCYWctb2Ytd29yZHMKCiMlJSBtZAoKTmEgc3ByYWNvdmFuaWUgc2Ftb3Ruw6lobyB0ZXh0b3bDqWhvIG9ic2FodSBrb21lbnTDoXJhIHBvdcW+aWplbWUgdHp2LiBtZXTDs2R1ICJCYWctb2Ytd29yZHMiLgpLYcW+ZMOhIHNwcsOhdmEgc2Egc2tsYWTDoSB6IDxpPm48L2k+IHNsb3YgKHV2YcW+dWplbWUgbGVuIHNsb3bDoSBkxLrFvmt5IGR2YSBhIHZpYWMpLiBLYcW+ZMOpIHNsb3ZvIGplIHRlZGEgbW/Fvm7DqSByZXByZXplbnRvdmHFpSB2ZWt0b3JvbSwga2RlIGhvZG5vdHkgdmVrdG9yYSBidWTDuiByZXByZXplbnRvdmHFpSBwb8SNZXQgdsO9c2t5dG92IGRhbsOpaG8gc2xvdmEgdiBzcHLDoXZlLgpWw71zbGVkbsOpIHZla3RvcnkgdWxvxb7DrW1lIGRvIG5vdsOpaG8gYXRyaWLDunR1ICJWRUNUT1IiLgpVUkwgb2RrYXp5IG5lYnVkZW1lIHJlcHJlemVudG92YcWlIGFrbyBzbG92bywgbmFtaWVzdG8gdG9obyB2eXR2b3LDrW1lIG5vdsO9IGF0cmliw7p0ICJDT05UQUlOU19VUkwiLCBrdG9yw6lobyBuw6F6b3YgamUgc2Ftb3Z5c3ZldGx1asO6Y2kuCgpUZWNobmlreSBha28gInN0ZW1taW5nIiBhICJzdG9wIHdvcmRzIHJlbW92YWwiIHBvdcW+w612YcWlIG5lYnVkZW1lIGt2w7RsaSBjaGFyYWt0ZXJ1IFlvdVR1YmUga29tZW50w6Fyb3YsIGt0b3LDqSBiw712YWrDuiBrcsOhdGtlLCDEjWFzdG8gb2JzYWh1asO6IHNrcmF0a3kgYSBuZXNwaXNvdm7DqSB2w71yYXp5LgpWIMSNbMOhbmt1IGFzb2Npb3Zhbm9tIHMgZGF0YXNldG9tIGF1dG9yaSB0dnJkaWEsIMW+ZSB0aWV0byB0ZWNobmlreSBieSBwcmF2ZGVwb2RvYm5lIHZpZWRsaSBrIHpob3LFoWVuaXUgdsO9c2xlZGtvdi4KCiMlJQoKaW1wb3J0IG51bXB5IGFzIG5wCgp3b3JkU2V0ID0gc2V0KCkKd29yZExpc3QgPSBbXQpmb3IgY29udGVudCBpbiBjb25jZFRhYmxlWyJDT05URU5UIl06CiAgICBmb3Igd29yZCBpbiBjb250ZW50LnNwbGl0KCk6CiAgICAgICAgaWYgKGxlbih3b3JkKSA+PSAyIGFuZCBub3Qgd29yZCBpbiB3b3JkU2V0KToKICAgICAgICAgICAgd29yZFNldC5hZGQod29yZCkKICAgICAgICAgICAgd29yZExpc3QuYXBwZW5kKHdvcmQpCgpwcmludCgiVGhlcmUgYXJlICIgKyBzdHIobGVuKHdvcmRMaXN0KSkgKyAiIGRpc3RpbmN0IHdvcmRzIG9mIHR3byBvciBtb3JlIHN5bWJvbHMiKQoKVVJMQWRkcmVzc2VzID0gc2V0KGZpbHRlcihsYW1iZGEgeDogIndhdGNoP3Y9IiBpbiB4IG9yICJodHRwczovLyIgaW4geCBvciAiaHR0cDovLyIgaW4geCwgd29yZExpc3QpKQpwcmludCgiV2UgaGF2ZSBmb3VuZCAiICsgc3RyKGxlbihVUkxBZGRyZXNzZXMpKSArICIgZGlzdGluY3QgVVJMIGFkZHJlc3NlcyIpCgp3b3JkTGlzdCA9IGxpc3QoIGZpbHRlcihsYW1iZGEgeDogbm90IHggaW4gVVJMQWRkcmVzc2VzLCB3b3JkTGlzdCkgKSAjUmVtb3ZlIFVSTHMKd29yZERpY3QgPSBkaWN0KCB6aXAoIHdvcmRMaXN0LCByYW5nZSggbGVuKHdvcmRMaXN0KSApICkgKSNDcmVhdGUgZGljdGlvbmFyeSBvZiB3b3JkcyBhbmQgdGhlaXIgaW5kZXhlcyBmb3IgZmFzdGVyIHNlYXJjaAoKCiMgVnl0dm9yaW1lIHZla3RvcnkKY29udGFpbnNVUkwgPSBbRmFsc2VdICogY29uY2RUYWJsZVsiREFURSJdLnNpemUKdmVjdG9ycyA9IFtdCmZvciBpbmRleCwgY29udGVudCBpbiBlbnVtZXJhdGUoY29uY2RUYWJsZVsiQ09OVEVOVCJdKToKICAgIHZlY3RvciA9IFswXSAqIGxlbih3b3JkTGlzdCkKICAgIGZvciB3b3JkIGluIGNvbnRlbnQuc3BsaXQoKToKICAgICAgICBpZiAod29yZCBpbiBVUkxBZGRyZXNzZXMpOgogICAgICAgICAgICBjb250YWluc1VSTFtpbmRleF0gPSBUcnVlCiAgICAgICAgZWxpZiAobGVuKHdvcmQpID49IDIpOgogICAgICAgICAgICB2ZWN0b3Jbd29yZERpY3Rbd29yZF1dICs9IDEKICAgIHZlY3RvcnMuYXBwZW5kKHZlY3RvcikKCiMgVnl0dm9yaW1lIG5vdmUgYXRyaWJ1dHkKY29uY2RUYWJsZVsiQ09OVEFJTlNfVVJMIl0gPSBjb250YWluc1VSTApjb25jZFRhYmxlWyJWRUNUT1IiXSA9IHZlY3RvcnMKCmNvbmNkVGFibGUuaW5mbygpCmNvbmNkVGFibGVbIlZFQ1RPUiJdCgojIFRPRE86IG5vcm1hbGl6b3ZhdCB2ZWt0b3J5CgojJSUgbWQKClByZSB1xI1lbmllIHBsw6FudWplbWUgdnlicmHFpSB0cmkgeiBuw6FzbGVkw7pqw7pjaWNoIG1vZGVsb3Y6Ci0gRGVjaXNpb24gdHJlZXMKLSBMb2dpc3RpYyByZWdyZXNzaW9uCi0gQmVybm91bGxpIE5hw692ZSBCYXllcwotIFN1cHBvcnQgdmVjdG9yIG1hY2hpbmVzIHdpdGggbGluZWFyIGtlcm5lbAotIFN1cHBvcnQgdmVjdG9yIG1hY2hpbmVzIHdpdGggR2F1c3NpYW4ga2VybmVsCi0gUmFuZG9tIGZvcmVzdHMKClRpZXRvIG1vZGVseSBmdW5nb3ZhbGkgcG9kxL5hIGF1dG9yb3YgZGF0YXNldHUgbmFqbGVwxaFpZS4KCiMlJQoKdGVtcFRhYmxlcyA9IGRlZXBjb3B5KHJhd1RhYmxlcykKCmZvciB2aWRlb0luZGV4LCB0YWJsZSBpbiBlbnVtZXJhdGUodGVtcFRhYmxlcyk6CiAgICB0YWJsZVsiVklERU8iXSA9IHZpZGVvSW5kZXgKCmNvbmNkVGFibGUgPSBwZC5jb25jYXQodGVtcFRhYmxlcykKY29uY2RUYWJsZS5pbmZvKCkKCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyUlIG1kCgpQcmUgdcSNZW5pZSBwbMOhbnVqZW1lIHZ5YnJhxaUgdHJpIHogbsOhc2xlZMO6asO6Y2ljaCBtb2RlbG92OgotIERlY2lzaW9uIHRyZWVzCi0gTG9naXN0aWMgcmVncmVzc2lvbgotIEJlcm5vdWxsaSBOYSDMiMSxdmUgQmF5ZXMKLSBTdXBwb3J0IHZlY3RvciBtYWNoaW5lcyB3aXRoIGxpbmVhciBrZXJuZWwKLSBTdXBwb3J0IHZlY3RvciBtYWNoaW5lcyB3aXRoIEdhdXNzaWFuIGtlcm5lbAotIFJhbmRvbSBmb3Jlc3RzCgpUaWV0byBtb2RlbHkgZnVuZ292YWxpIHBvZMS+YSBhdXRvcm92IGRhdGFzZXR1IG5hamxlcMWhaWUuCgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyUlCgoKCiMlJSBtZAoKCgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cgpwb2xGZWF0UGlwZWxpbmUgPSBtYWtlX3BpcGVsaW5lKAogICAgS05OSW1wdXRlcigpLAogICAgUG9seW5vbWlhbEZlYXR1cmVzKGRlZ3JlZT00KSwKKS5maXQoY2Fyc190cmFpbl9YLCBjYXJzX3RyYWluX3kpCgpwb2xGZWF0TmFtZXMgPSBwb2xGZWF0UGlwZWxpbmUuc3RlcHNbMV1bMV0uZ2V0X2ZlYXR1cmVfbmFtZXMoKQpwcmludChjYXJzX3RyYWluX1guc2hhcGUpCmxpc3QoemlwKApsaXN0KAogICAgcG9sRmVhdFBpcGVsaW5lLnRyYW5zZm9ybSgKICAgICAgICBbWzEgZm9yIF8gaW4gcmFuZ2UoY2Fyc190cmFpbl9YLnNoYXBlWzFdKV1dCiAgICApWzBdCikKICAgICNwb2xGZWF0TmFtZXMKIykpCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>strat</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">cGlwZWxpbmUgPSBtYWtlX3BpcGVsaW5lKFN0YW5kYXJkU2NhbGVyKCksIExvZ2lzdGljUmVncmVzc2lvbigpKS5maXQoZGlhYmV0ZXNfdHJhaW5fWCwgZGlhYmV0ZXNfdHJhaW5feSkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZnJvbSBza2xlYXJuLm1vZGVsX3NlbGVjdGlvbiBpbXBvcnQgc2NvCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>Naïve</last-search>
+      <last-offset />
+      <last-pattern>Naïve</last-pattern>
+      <last-replace>dataTypes</last-replace>
+      <last-substitute>dtypes</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="true" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>

@@ -9,6 +9,6 @@ function run {
 
 run "thunderbird"
 run "steam -silent"
-run "compton --config /dev/null -b --vsync drm"
-run "volumeicon"
-run "dropbox"
+run "compton -CGb --vsync drm"
+run "volti"
+run "dropbox start"

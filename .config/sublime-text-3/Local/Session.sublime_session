@@ -1,0 +1,1291 @@
+{
+	"folder_history":
+	[
+		"/home/matj1/.steam/steam/steamapps/common/Homebrew - Patent Unknown",
+		"/home/matj1/.steam/steam/steamapps/common/Homebrew - Patent Unknown/2020-04-29_000718",
+		"/home/matj1/repa/konlang-MV",
+		"/home/matj1/repa/konlang-MV/Vokabularium",
+		"/home/matj1/Dokumenty",
+		"/home/matj1/Dokumenty/předměty/principy_nízkoúroúrovňového_programování/pb071/hw04"
+	],
+	"last_version": 3211,
+	"last_window_id": 42,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1416.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"max",
+						"maximum"
+					],
+					[
+						"uns",
+						"unsCharCompare"
+					],
+					[
+						"set",
+						"setCopy"
+					],
+					[
+						"char",
+						"char"
+					],
+					[
+						"mos",
+						"mostFrequentValue"
+					],
+					[
+						"most",
+						"most_frequent"
+					],
+					[
+						"un",
+						"unsigned"
+					],
+					[
+						"find",
+						"findHand"
+					],
+					[
+						"car",
+						"cardSet"
+					],
+					[
+						"p1",
+						"p1score"
+					],
+					[
+						"p",
+						"player1"
+					],
+					[
+						"pla",
+						"player1"
+					],
+					[
+						"pl",
+						"player1"
+					],
+					[
+						"ply",
+						"player1"
+					],
+					[
+						"in",
+						"inChar"
+					],
+					[
+						"uin",
+						"uint8_t"
+					],
+					[
+						"bu",
+						"bufferValue"
+					],
+					[
+						"wh",
+						"while"
+					],
+					[
+						"enc",
+						"encounteredEof"
+					],
+					[
+						"ui",
+						"uint8_t"
+					],
+					[
+						"enco",
+						"encounteredEof"
+					],
+					[
+						"buf",
+						"bufferValue"
+					],
+					[
+						"uint",
+						"uint32_t"
+					],
+					[
+						"for",
+						"forv\tVector For Loop"
+					],
+					[
+						"if",
+						"ifmain\tif __name__ == '__main__'"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"build",
+						"Build With: LaTeX - LuaLaTeX"
+					],
+					[
+						"xela",
+						"Build With: LaTeX - XeLaTeX"
+					],
+					[
+						"bu",
+						"Build With: LaTeX"
+					],
+					[
+						"b",
+						"Build With: LaTeX"
+					],
+					[
+						"buil",
+						"Build With: LaTeX"
+					],
+					[
+						"bin",
+						"Preferences: Key Bindings"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"expand",
+						"ExpandRegion"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"bindin",
+						"Preferences: Key Bindings"
+					],
+					[
+						"buld",
+						"Build With: LaTeX"
+					],
+					[
+						"latext",
+						"LaTeXTools: Check system"
+					],
+					[
+						"package",
+						"Package Control: Discover Packages"
+					],
+					[
+						"setti",
+						"Preferences: Settings"
+					],
+					[
+						"pref",
+						"Preferences: Settings"
+					],
+					[
+						"sidebar",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"files",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"tab",
+						"View: Toggle Tabs"
+					],
+					[
+						"indent",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"inden",
+						"Indentation: Reindent Lines"
+					],
+					[
+						":settin",
+						"Preferences: Settings"
+					],
+					[
+						"setting",
+						"Preferences: Settings"
+					],
+					[
+						"view",
+						"View: Toggle Menu"
+					],
+					[
+						"settin",
+						"Preferences: Settings"
+					],
+					[
+						"sett",
+						"Preferences: Settings"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"dent",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"syntax c",
+						"Set Syntax: C"
+					],
+					[
+						"stet syntax c",
+						"Set Syntax: C"
+					],
+					[
+						"prefe",
+						"Preferences: Settings"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"save",
+						"File: Save All"
+					],
+					[
+						"map",
+						"View: Toggle Minimap"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"tabs",
+						"View: Toggle Tabs"
+					],
+					[
+						"set",
+						"Set Syntax: Python3"
+					],
+					[
+						"python",
+						"Set Syntax: Python3"
+					],
+					[
+						"python3",
+						"Set Syntax: Python3"
+					],
+					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"term",
+						"Terminus: Toggle Panel"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"ter",
+						"Terminal: Open"
+					],
+					[
+						"package settin",
+						"Preferences: Package Control Settings – Default"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"disc",
+						"Package Control: Discover Packages"
+					],
+					[
+						"save as",
+						"Project: Save As"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
+					[
+						"set syntax py",
+						"Set Syntax: Python3"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"wa",
+						"Word Wrap: Toggle"
+					],
+					[
+						"set syntax c i",
+						"Set Syntax: C Improved"
+					],
+					[
+						"c",
+						"Set Syntax: C"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"reinde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"folder",
+						"Project: Add Folder"
+					],
+					[
+						"side",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"intsall",
+						"Package Control: Install Package"
+					],
+					[
+						"colo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"colos",
+						"UI: Select Color Scheme"
+					],
+					[
+						"sheme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"status b",
+						"View: Toggle Status Bar"
+					],
+					[
+						"status",
+						"View: Toggle Status Bar"
+					],
+					[
+						"install pac",
+						"Package Control: Install Package"
+					],
+					[
+						"package contro",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 151.0,
+				"history":
+				[
+					"exit()",
+					"type(int())",
+					"type(int)",
+					"type()",
+					"ls",
+					"for i in rande(5): print(i)",
+					"for i in rande(5):",
+					"exit()",
+					"help()",
+					"help",
+					"version()",
+					"1+1",
+					"terminus_open"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/tmp/mozilla_matj10/main.c.patch",
+				"/tmp/mozilla_matj10/clang-tidy.log",
+				"/home/matj1/Dokumenty/předměty/diskrétní_matematika/dú7/main.tex",
+				"/home/matj1/rofi_log",
+				"/home/matj1/.profile",
+				"/home/matj1/Dokumenty/předměty/principy_nízkoúroúrovňového_programování/xbagar.yml",
+				"/tmp/xa-GG1YJ0/ASNodes12_2010.csv",
+				"/tmp/xa-U0GXJ0/ASEdges12_2010.csv",
+				"/home/matj1/Dokumenty/předměty/arxiv/2. semestr/principy_nízkoúroúrovňového_programování/pb071/hw06/assignment.md",
+				"/home/matj1/Dokumenty/předměty/arxiv/2. semestr/principy_nízkoúroúrovňového_programování/zápočet/main.c",
+				"/home/matj1/.steam/steam/steamapps/common/Homebrew - Patent Unknown/2020-04-28_234514/output_log.txt",
+				"/tmp/xa-SJQLJ0/error.log",
+				"/home/matj1/.config/sublime-text-3/Packages/User/LaTeXTools.sublime-settings",
+				"/home/matj1/Dokumenty/předměty/diskrétní_matematika/dú6/main.tex",
+				"/tmp/xa-X7BVJ0/Astley.psd1",
+				"/tmp/xa-X7BVJ0/Astley.psm1",
+				"/home/matj1/Dropbox/témata.url.txt",
+				"/home/matj1/Dokumenty/předměty/diskrétní_matematika/dú2/main.tex",
+				"/home/matj1/Dokumenty/předměty/úvod_do_strojového_učení/projekt/main.ipynb",
+				"/home/matj1/Dokumenty/předměty/úvod_do_strojového_učení/projekt/poznámky.md",
+				"/home/matj1/Dokumenty/předměty/úvod_do_strojového_učení/projekt/report.md",
+				"/tmp/sdc",
+				"/home/matj1/.steam/steam/steamapps/common/DOOM/base/sound/soundbanks/pc/soundbanksinfo.xml",
+				"/home/matj1/Dokumenty/předměty/arxiv/3. semestr/spojité_modely_a_statistika_B/dú/1/main.tex",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/0/00_dat/Assets/tpp/script/lib/TppUI.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/0/00_dat/Assets/tpp/script/lib/TppVarInit.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/0/00_dat/Assets/tpp/script/lib/TppDebug.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/0/00_dat/Assets/tpp/script/lib/Tpp.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/0/00_dat/Tpp/Scripts/Equip/ChimeraPartsPackageTable.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/0/00_dat/Tpp/Scripts/Ui/TppUiBootInit.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/0/00_dat/Tpp/start.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/1/MGSVTUPDATEV0110/0/00_dat/key.dat.xml",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Fox/Scripts/Classes/Pad.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Tpp/Scripts/System/start2nd.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Tpp/Scripts/RouteEvents/AiRtEvSoldier.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Tpp/Scripts/Classes/TppPadOperatorUtility.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Tpp/start.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/init.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Assets/tpp/script/list/TppQuestList.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Assets/tpp/script/lib/Tpp.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Assets/tpp/script/lib/TppUI.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Assets/fox/effect/gr_pic/steam/material_params.fmtt",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Fox/Scripts/Language/LanguageInit.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Fox/Scripts/Gr/gr_init.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Fox/Scripts/Classes/Entity.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Fox/Scripts/Classes/Scene.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Tpp/Scripts/Ui/TppUiBootInit.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Tpp/Scripts/Ui/TppUiPrefetchTexture.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Tpp/Scripts/Equip/EquipMotionData.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Tpp/Scripts/Equip/EquipParameters.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Tpp/Scripts/Equip/ChimeraPartsPackageTable.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/3989933189c50.subp",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Fox/Scripts/Gr/gr_init_dx11.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Assets/tpp/script/lib/TppRadio.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1.dat.xml",
+				"/home/matj1/Dokumenty/předměty/principy_nízkoúroúrovňového_programování/pb071/hw02/test/test.sh",
+				"/home/matj1/Dokumenty/předměty/arxiv/2. semestr/principy_nízkoúroúrovňového_programování/pb071/hw04/src/utils.c",
+				"/run/media/matj1/My Passport/test..txt",
+				"/run/media/matj1/My Passport/test.txt",
+				"/home/matj1/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/matj1/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/tmp/mozilla_matj10/ascii85.c-1.patch",
+				"/tmp/mozilla_matj10/clang-tidy-1.log",
+				"/tmp/mozilla_matj10/ascii85.c.patch",
+				"/tmp/evoBWJKG0",
+				"/tmp/evoSFUHG0",
+				"/home/matj1/židle.txt",
+				"/home/matj1/Dokumenty/lyrics/Dragostea din tei.txt",
+				"/run/media/matj1/ARCH_201904/otázky2.txt",
+				"/run/media/matj1/ARCH_201904/otázky.txt",
+				"/home/matj1/Dokumenty/předměty/algoritmy_a_datové_struktury/du11_graph_algorithms.py",
+				"/home/matj1/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+				"/home/matj1/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+				"/home/matj1/Obrázky/lnxpcs/makemywall",
+				"/home/matj1/Dokumenty/předměty/principy_nízkoúroúrovňového_programování/pb071/hw04/src/errors.c",
+				"/home/matj1/Dokumenty/předměty/principy_nízkoúroúrovňového_programování/pb071/hw04/CMakeLists.txt",
+				"/home/matj1/Dokumenty/předměty/principy_nízkoúroúrovňového_programování/pb071/hw04/src/main.c",
+				"/home/matj1/Dokumenty/předměty/principy_nízkoúroúrovňového_programování/pb071/hw03/osc.c",
+				"/home/matj1/.fonts/Input-Font/Input_Fonts/SETTINGS.txt"
+			],
+			"find":
+			{
+				"height": 48.0
+			},
+			"find_in_files":
+			{
+				"height": 128.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"dosaz",
+					"funkce",
+					"erro",
+					"arstarrst",
+					"a",
+					"arstarst",
+					"a",
+					"arstarst",
+					"arst",
+					"17ú",
+					"newcommand",
+					"pdfla",
+					"do"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"arst",
+					"rst",
+					"arst"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 48.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 121.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.latextools":
+			{
+				"height": 156.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 191.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1280.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"max",
+						"maximum"
+					],
+					[
+						"uns",
+						"unsCharCompare"
+					],
+					[
+						"set",
+						"setCopy"
+					],
+					[
+						"char",
+						"char"
+					],
+					[
+						"mos",
+						"mostFrequentValue"
+					],
+					[
+						"most",
+						"most_frequent"
+					],
+					[
+						"un",
+						"unsigned"
+					],
+					[
+						"find",
+						"findHand"
+					],
+					[
+						"car",
+						"cardSet"
+					],
+					[
+						"p1",
+						"p1score"
+					],
+					[
+						"p",
+						"player1"
+					],
+					[
+						"pla",
+						"player1"
+					],
+					[
+						"pl",
+						"player1"
+					],
+					[
+						"ply",
+						"player1"
+					],
+					[
+						"in",
+						"inChar"
+					],
+					[
+						"uin",
+						"uint8_t"
+					],
+					[
+						"bu",
+						"bufferValue"
+					],
+					[
+						"wh",
+						"while"
+					],
+					[
+						"enc",
+						"encounteredEof"
+					],
+					[
+						"ui",
+						"uint8_t"
+					],
+					[
+						"enco",
+						"encounteredEof"
+					],
+					[
+						"buf",
+						"bufferValue"
+					],
+					[
+						"uint",
+						"uint32_t"
+					],
+					[
+						"for",
+						"forv\tVector For Loop"
+					],
+					[
+						"if",
+						"ifmain\tif __name__ == '__main__'"
+					]
+				]
+			},
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"build",
+						"Build With: LaTeX - LuaLaTeX"
+					],
+					[
+						"xela",
+						"Build With: LaTeX - XeLaTeX"
+					],
+					[
+						"bu",
+						"Build With: LaTeX"
+					],
+					[
+						"b",
+						"Build With: LaTeX"
+					],
+					[
+						"buil",
+						"Build With: LaTeX"
+					],
+					[
+						"bin",
+						"Preferences: Key Bindings"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"expand",
+						"ExpandRegion"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"bindin",
+						"Preferences: Key Bindings"
+					],
+					[
+						"buld",
+						"Build With: LaTeX"
+					],
+					[
+						"latext",
+						"LaTeXTools: Check system"
+					],
+					[
+						"package",
+						"Package Control: Discover Packages"
+					],
+					[
+						"setti",
+						"Preferences: Settings"
+					],
+					[
+						"pref",
+						"Preferences: Settings"
+					],
+					[
+						"sidebar",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"files",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"tab",
+						"View: Toggle Tabs"
+					],
+					[
+						"indent",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"inden",
+						"Indentation: Reindent Lines"
+					],
+					[
+						":settin",
+						"Preferences: Settings"
+					],
+					[
+						"setting",
+						"Preferences: Settings"
+					],
+					[
+						"view",
+						"View: Toggle Menu"
+					],
+					[
+						"settin",
+						"Preferences: Settings"
+					],
+					[
+						"sett",
+						"Preferences: Settings"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"dent",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"syntax c",
+						"Set Syntax: C"
+					],
+					[
+						"stet syntax c",
+						"Set Syntax: C"
+					],
+					[
+						"prefe",
+						"Preferences: Settings"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"save",
+						"File: Save All"
+					],
+					[
+						"map",
+						"View: Toggle Minimap"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"tabs",
+						"View: Toggle Tabs"
+					],
+					[
+						"set",
+						"Set Syntax: Python3"
+					],
+					[
+						"python",
+						"Set Syntax: Python3"
+					],
+					[
+						"python3",
+						"Set Syntax: Python3"
+					],
+					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"term",
+						"Terminus: Toggle Panel"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"ter",
+						"Terminal: Open"
+					],
+					[
+						"package settin",
+						"Preferences: Package Control Settings – Default"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"disc",
+						"Package Control: Discover Packages"
+					],
+					[
+						"save as",
+						"Project: Save As"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
+					[
+						"set syntax py",
+						"Set Syntax: Python3"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"wa",
+						"Word Wrap: Toggle"
+					],
+					[
+						"set syntax c i",
+						"Set Syntax: C Improved"
+					],
+					[
+						"c",
+						"Set Syntax: C"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"reinde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"folder",
+						"Project: Add Folder"
+					],
+					[
+						"side",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"intsall",
+						"Package Control: Install Package"
+					],
+					[
+						"colo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"colos",
+						"UI: Select Color Scheme"
+					],
+					[
+						"sheme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"status b",
+						"View: Toggle Status Bar"
+					],
+					[
+						"status",
+						"View: Toggle Status Bar"
+					],
+					[
+						"install pac",
+						"Package Control: Install Package"
+					],
+					[
+						"package contro",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 151.0,
+				"history":
+				[
+					"exit()",
+					"type(int())",
+					"type(int)",
+					"type()",
+					"ls",
+					"for i in rande(5): print(i)",
+					"for i in rande(5):",
+					"exit()",
+					"help()",
+					"help",
+					"version()",
+					"1+1",
+					"terminus_open"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/tmp/mozilla_matj10/main.c.patch",
+				"/tmp/mozilla_matj10/clang-tidy.log",
+				"/home/matj1/Dokumenty/předměty/diskrétní_matematika/dú7/main.tex",
+				"/home/matj1/rofi_log",
+				"/home/matj1/.profile",
+				"/home/matj1/Dokumenty/předměty/principy_nízkoúroúrovňového_programování/xbagar.yml",
+				"/tmp/xa-GG1YJ0/ASNodes12_2010.csv",
+				"/tmp/xa-U0GXJ0/ASEdges12_2010.csv",
+				"/home/matj1/Dokumenty/předměty/arxiv/2. semestr/principy_nízkoúroúrovňového_programování/pb071/hw06/assignment.md",
+				"/home/matj1/Dokumenty/předměty/arxiv/2. semestr/principy_nízkoúroúrovňového_programování/zápočet/main.c",
+				"/home/matj1/.steam/steam/steamapps/common/Homebrew - Patent Unknown/2020-04-28_234514/output_log.txt",
+				"/tmp/xa-SJQLJ0/error.log",
+				"/home/matj1/.config/sublime-text-3/Packages/User/LaTeXTools.sublime-settings",
+				"/home/matj1/Dokumenty/předměty/diskrétní_matematika/dú6/main.tex",
+				"/tmp/xa-X7BVJ0/Astley.psd1",
+				"/tmp/xa-X7BVJ0/Astley.psm1",
+				"/home/matj1/Dropbox/témata.url.txt",
+				"/home/matj1/Dokumenty/předměty/diskrétní_matematika/dú2/main.tex",
+				"/home/matj1/Dokumenty/předměty/úvod_do_strojového_učení/projekt/main.ipynb",
+				"/home/matj1/Dokumenty/předměty/úvod_do_strojového_učení/projekt/poznámky.md",
+				"/home/matj1/Dokumenty/předměty/úvod_do_strojového_učení/projekt/report.md",
+				"/tmp/sdc",
+				"/home/matj1/.steam/steam/steamapps/common/DOOM/base/sound/soundbanks/pc/soundbanksinfo.xml",
+				"/home/matj1/Dokumenty/předměty/arxiv/3. semestr/spojité_modely_a_statistika_B/dú/1/main.tex",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/0/00_dat/Assets/tpp/script/lib/TppUI.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/0/00_dat/Assets/tpp/script/lib/TppVarInit.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/0/00_dat/Assets/tpp/script/lib/TppDebug.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/0/00_dat/Assets/tpp/script/lib/Tpp.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/0/00_dat/Tpp/Scripts/Equip/ChimeraPartsPackageTable.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/0/00_dat/Tpp/Scripts/Ui/TppUiBootInit.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/0/00_dat/Tpp/start.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/1/MGSVTUPDATEV0110/0/00_dat/key.dat.xml",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Fox/Scripts/Classes/Pad.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Tpp/Scripts/System/start2nd.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Tpp/Scripts/RouteEvents/AiRtEvSoldier.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Tpp/Scripts/Classes/TppPadOperatorUtility.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Tpp/start.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/init.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Assets/tpp/script/list/TppQuestList.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Assets/tpp/script/lib/Tpp.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Assets/tpp/script/lib/TppUI.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Assets/fox/effect/gr_pic/steam/material_params.fmtt",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Fox/Scripts/Language/LanguageInit.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Fox/Scripts/Gr/gr_init.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Fox/Scripts/Classes/Entity.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Fox/Scripts/Classes/Scene.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Tpp/Scripts/Ui/TppUiBootInit.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Tpp/Scripts/Ui/TppUiPrefetchTexture.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Tpp/Scripts/Equip/EquipMotionData.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Tpp/Scripts/Equip/EquipParameters.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Tpp/Scripts/Equip/ChimeraPartsPackageTable.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/3989933189c50.subp",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Fox/Scripts/Gr/gr_init_dx11.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1_dat/Assets/tpp/script/lib/TppRadio.lua",
+				"/home/matj1/.steam/steam/steamapps/common/MGS_TPP/master/data1.dat.xml",
+				"/home/matj1/Dokumenty/předměty/principy_nízkoúroúrovňového_programování/pb071/hw02/test/test.sh",
+				"/home/matj1/Dokumenty/předměty/arxiv/2. semestr/principy_nízkoúroúrovňového_programování/pb071/hw04/src/utils.c",
+				"/run/media/matj1/My Passport/test..txt",
+				"/run/media/matj1/My Passport/test.txt",
+				"/home/matj1/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/matj1/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/tmp/mozilla_matj10/ascii85.c-1.patch",
+				"/tmp/mozilla_matj10/clang-tidy-1.log",
+				"/tmp/mozilla_matj10/ascii85.c.patch",
+				"/tmp/evoBWJKG0",
+				"/tmp/evoSFUHG0",
+				"/home/matj1/židle.txt",
+				"/home/matj1/Dokumenty/lyrics/Dragostea din tei.txt",
+				"/run/media/matj1/ARCH_201904/otázky2.txt",
+				"/run/media/matj1/ARCH_201904/otázky.txt",
+				"/home/matj1/Dokumenty/předměty/algoritmy_a_datové_struktury/du11_graph_algorithms.py",
+				"/home/matj1/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+				"/home/matj1/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+				"/home/matj1/Obrázky/lnxpcs/makemywall",
+				"/home/matj1/Dokumenty/předměty/principy_nízkoúroúrovňového_programování/pb071/hw04/src/errors.c",
+				"/home/matj1/Dokumenty/předměty/principy_nízkoúroúrovňového_programování/pb071/hw04/CMakeLists.txt",
+				"/home/matj1/Dokumenty/předměty/principy_nízkoúroúrovňového_programování/pb071/hw04/src/main.c",
+				"/home/matj1/Dokumenty/předměty/principy_nízkoúroúrovňového_programování/pb071/hw03/osc.c",
+				"/home/matj1/.fonts/Input-Font/Input_Fonts/SETTINGS.txt"
+			],
+			"find":
+			{
+				"height": 48.0
+			},
+			"find_in_files":
+			{
+				"height": 128.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"dosaz",
+					"funkce",
+					"erro",
+					"arstarrst",
+					"a",
+					"arstarst",
+					"a",
+					"arstarst",
+					"arst",
+					"17ú",
+					"newcommand",
+					"pdfla",
+					"do"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"arst",
+					"rst",
+					"arst"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 48.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 121.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.latextools":
+			{
+				"height": 156.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,0,0,1280,1416,2560,1440",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 191.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 36
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

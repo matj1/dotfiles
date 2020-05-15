@@ -1,5 +1,5 @@
 ! "Enabled modi" Set from: Default
-rofi.modi:                           drun,run,window,ssh
+rofi.modi:                           drun,run
 ! "Window width" Set from: Default
 ! rofi.width:                          50
 ! "Number of lines" Set from: Default
@@ -7,7 +7,7 @@ rofi.modi:                           drun,run,window,ssh
 ! "Number of columns" Set from: Default
 ! rofi.columns:                        1
 ! "Font to use" Set from: Default
-rofi.font:                           Noto Color Emoji 12
+rofi.font:                           Noto 12
 ! "Border width" Set from: Default
 ! rofi.bw:                             16
 ! "Location on screen" Set from: Default

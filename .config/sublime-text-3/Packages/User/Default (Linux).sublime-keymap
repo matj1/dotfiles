@@ -1,0 +1,6 @@
+[
+	{ "keys": ["context_menu"], "command": "toggle_menu" },
+	{ "keys": ["ctrl+a"], "command": "move_to", "args": { "to": "bol" } },
+	{ "keys": ["ctrl+e"], "command": "move_to", "args": {"to": "eol", "extend": false} },
+	{ "keys": ["alt+shift+e"], "command": "expand_region" },
+]

@@ -1,0 +1,38 @@
+<application>
+  <component name="CppNewDialogSettings">
+    <option name="addNewFilesToProject" value="false" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/bin/node" />
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Roboto" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.53436184" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="InstalledPluginsSearchHistory" value="git&#10;choose runtime&#10;choose runti&#10;choose run&#10;choose r" />
+    <property name="MarketplacePluginsSearchHistory" value="choose runtime&#10;asciidoc&#10;jupyter&#10;rust&#10;sh" />
+    <property name="NonModalCommitPromotionState" value="ACCEPTED" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SHELLCHECK.PATH" value="$APPLICATION_PLUGINS_DIR$/Shell Script/shellcheck" />
+    <property name="SettingsSearchHistory" value="font&#10;git&#10;column selection&#10;caret&#10;cursor" />
+    <property name="appcds.runOnSecondStart" value="CL-201.7223.86-6d3644b7ae1b1e8f64765b6792d80bc1d0b8a61d717a3c84f0e1646ed5888afe" />
+    <property name="evlsprt3.201" value="17" />
+    <property name="experimentalFeature.cidr.debugger.value.numberFormatting.hex" value="true" />
+    <property name="export.settings.marked" value="diff.xml|colors.scheme.xml|colors|filetypes.xml|gutter.xml|laf.xml|markdown.xml|" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Dokumenty/předměty/principy_nízkoúroúrovňového_programování/pb071/fake_zápočet&#10;/home/matj1/Dokumenty/předměty/principy_nízkoúroúrovňového_programování/pb071/hw04&#10;/home/matj1/Dokumenty/předměty/principy_nízkoúroúrovňového_programování/pb071/hw03/tests&#10;/home/matj1/Dokumenty/předměty/principy_nízkoúroúrovňového_programování/pb071/hw03&#10;/home/matj1/Dokumenty/předměty/principy_nízkoúroúrovňového_programování/pb071/hw01&#10;/usr/bin/make&#10;/usr/bin/cmake&#10;/home/matj1/Dokumenty/předměty/principy_nízkoúroúrovňového_programování/pb071/hw02&#10;/home/matj1/.IdeaIC2019.3/config/settings.zip" />
+    <property name="file.gist.reindex.count" value="11112" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="ideavim.statistics.timestamp" value="1589305418184" />
+    <property name="lastTip" value="1" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Dokumenty/předměty/principy_nízkoúroúrovňového_programování/pb071/fake_zápočet" />
+    <property name="selected.color.option.type" value="IDENTIFIER_UNDER_CARET_ATTRIBUTES" />
+    <property name="settings.code.style.selected.tab.ObjectiveC" value="Wrapping and Braces" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.8.2" />
+  </component>
+</application>

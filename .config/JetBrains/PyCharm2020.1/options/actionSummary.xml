@@ -1,0 +1,147 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="About">
+        <ActionSummary times="1" last="1587043703201" />
+      </entry>
+      <entry key="CheckinFiles">
+        <ActionSummary times="6" last="1589472148299" />
+      </entry>
+      <entry key="CloseProject">
+        <ActionSummary times="2" last="1587051940219" />
+      </entry>
+      <entry key="Compare.Selected">
+        <ActionSummary times="1" last="1589473100251" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="12" last="1587973304874" />
+      </entry>
+      <entry key="EditorChooseLookupItem">
+        <ActionSummary times="308" last="1587984744374" />
+      </entry>
+      <entry key="EditorChooseLookupItemReplace">
+        <ActionSummary times="26" last="1587983273176" />
+      </entry>
+      <entry key="EditorCut">
+        <ActionSummary times="1" last="1587982543782" />
+      </entry>
+      <entry key="EditorDeleteToWordStart">
+        <ActionSummary times="76" last="1589472199561" />
+      </entry>
+      <entry key="EditorDown">
+        <ActionSummary times="354" last="1587983888135" />
+      </entry>
+      <entry key="EditorLeft">
+        <ActionSummary times="2" last="1587974715604" />
+      </entry>
+      <entry key="EditorPasteFromX11">
+        <ActionSummary times="6" last="1587503017896" />
+      </entry>
+      <entry key="EditorRight">
+        <ActionSummary times="41" last="1587984013143" />
+      </entry>
+      <entry key="EditorSplitLine">
+        <ActionSummary times="3" last="1589184146264" />
+      </entry>
+      <entry key="EditorStartNewLine">
+        <ActionSummary times="3" last="1589184143754" />
+      </entry>
+      <entry key="EditorToggleUseSoftWraps">
+        <ActionSummary times="8" last="1589455284174" />
+      </entry>
+      <entry key="EditorUp">
+        <ActionSummary times="50" last="1587983885009" />
+      </entry>
+      <entry key="Exit">
+        <ActionSummary times="13" last="1589473546615" />
+      </entry>
+      <entry key="Git.Add">
+        <ActionSummary times="1" last="1589472142176" />
+      </entry>
+      <entry key="GotoDeclaration">
+        <ActionSummary times="2" last="1587065544298" />
+      </entry>
+      <entry key="JupyterInsertCodeCellToTheEndAction">
+        <ActionSummary times="1" last="1587051006224" />
+      </entry>
+      <entry key="JupyterInsertMarkdownCellToTheEndAction">
+        <ActionSummary times="2" last="1587050987810" />
+      </entry>
+      <entry key="JupyterInterruptKernelAction">
+        <ActionSummary times="2" last="1587505878977" />
+      </entry>
+      <entry key="JupyterRunAllAction">
+        <ActionSummary times="14" last="1589456052331" />
+      </entry>
+      <entry key="JupyterRunCellAction">
+        <ActionSummary times="155" last="1589448838863" />
+      </entry>
+      <entry key="JupyterRunCellSelectBelowAction">
+        <ActionSummary times="117" last="1589448835768" />
+      </entry>
+      <entry key="PySciView">
+        <ActionSummary times="2" last="1589454931350" />
+      </entry>
+      <entry key="Refactorings.QuickListPopupAction">
+        <ActionSummary times="1" last="1588859661957" />
+      </entry>
+      <entry key="ShowIntentionActions">
+        <ActionSummary times="2" last="1587054255827" />
+      </entry>
+      <entry key="ShowSettings">
+        <ActionSummary times="6" last="1588853837996" />
+      </entry>
+      <entry key="Vcs.ShowTabbedFileHistory">
+        <ActionSummary times="1" last="1587324292825" />
+      </entry>
+      <entry key="WelcomeScreen.OpenDirectoryProject">
+        <ActionSummary times="1" last="1587043719117" />
+      </entry>
+      <entry key="com.intellij.ide.ReopenProjectAction">
+        <ActionSummary times="1" last="1587051947424" />
+      </entry>
+      <entry key="com.intellij.notification.BrowseNotificationAction">
+        <ActionSummary times="1" last="1587480050675" />
+      </entry>
+      <entry key="com.intellij.openapi.actionSystem.DefaultActionGroup">
+        <ActionSummary times="1" last="1587053015247" />
+      </entry>
+      <entry key="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+        <ActionSummary times="5033" last="1589455485665" />
+      </entry>
+      <entry key="com.intellij.openapi.fileEditor.TextEditorWithPreview$ChangeViewModeAction">
+        <ActionSummary times="64" last="1587980361213" />
+      </entry>
+      <entry key="com.intellij.openapi.roots.ui.configuration.CommonContentEntriesEditor$AddContentEntryAction">
+        <ActionSummary times="2" last="1587973313874" />
+      </entry>
+      <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showUpdateResult$4$1">
+        <ActionSummary times="1" last="1587064720131" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+        <ActionSummary times="26" last="1589456002152" />
+      </entry>
+      <entry key="com.maddyhome.idea.vim.ui.ExShortcutKeyAction">
+        <ActionSummary times="29" last="1589454589233" />
+      </entry>
+      <entry key="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorAndPreviewLayoutChangeAction">
+        <ActionSummary times="2" last="1589184114375" />
+      </entry>
+      <entry key="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorOnlyLayoutChangeAction">
+        <ActionSummary times="2" last="1589184129836" />
+      </entry>
+      <entry key="org.jetbrains.plugins.notebooks.jupyter.editor.AlwaysUntrustedAction">
+        <ActionSummary times="3" last="1589184461083" />
+      </entry>
+      <entry key="org.jetbrains.plugins.notebooks.jupyter.editor.JupyterKernelManagementAction$createActionForKernelSpec$1">
+        <ActionSummary times="4" last="1587973529228" />
+      </entry>
+      <entry key="org.jetbrains.plugins.notebooks.jupyter.editor.JupyterTextEditorWithPreview$createScrollingSyncActionGroup$3">
+        <ActionSummary times="16" last="1589456021845" />
+      </entry>
+      <entry key="org.jetbrains.plugins.notebooks.jupyter.editor.gutter.JupyterPopupAction">
+        <ActionSummary times="1" last="1587067487020" />
+      </entry>
+    </data>
+  </component>
+</application>

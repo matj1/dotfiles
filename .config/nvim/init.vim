@@ -5,6 +5,9 @@ Plug 'junegunn/goyo.vim'
 Plug 'tpope/vim-rsi'
 Plug 'maxbrunsfeld/vim-yankstack'
 Plug 'Shougo/denite.nvim'
+Plug 'morhetz/gruvbox'
+Plug 'lervag/vimtex'
+Plug 'jceb/vim-orgmode'
 call plug#end()
 
 
@@ -29,6 +32,10 @@ set scrolloff=2 " keep cursor at centre of screen
 
 let mapleader=" " " map leader to space
 set virtualedit=block " unlimited movement in visual block mode and ability to go one char past the end of the line
+
+
+"" Indentation settings
+set cinoptions=:0
 
 
 "" View whitespace
@@ -60,14 +67,38 @@ function! NewBullet()
     let l = substitute(l, '^\s*','', '')
     return "\n" . l
 endfunction
-inoremap <expr> <M-CR> NewBullet() " repeat bullet
+inoremap <expr> <M-CR> NewBullet()
+" repeat bullet
 
 vnoremap  <leader>y  "+y
+nnoremap  <leader>y  "+y
 " copy to clipboard
 nnoremap <leader>p "+p
+nnoremap <leader>P "+P
 " paste from clipboard
+
+inoremap <C-t> <Esc>xpa
+nnoremap <leader>t xp
+" swap character on under cursor with the next one
+
+nnoremap <CR> o<Esc>
+nnoremap <S-CR> O<Esc>
+" insert blank line without going to insert mode
+
+
+"" Colorscheme settings
+set background=dark
+
+let g:gruvbox_contrast_dark = 'hard'
+let g:gruvbox_contrast_light = 'hard'
+
+colorscheme gruvbox
 
 
 "" Filetype dependent settings
 autocmd FileType python setlocal shiftwidth=4 expandtab
+autocmd FileType haskell setlocal shiftwidth=4 expandtab
+autocmd FileType tex setlocal shiftwidth=2 expandtab
+autocmd FileType plaintex setlocal shiftwidth=2 expandtab
 autocmd TermOpen * setlocal nonumber
+autocmd FileType markdown setlocal shiftwidth=2 expandtab

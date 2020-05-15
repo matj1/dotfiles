@@ -36,8 +36,8 @@ bindsym $mod+Return exec i3-sensible-terminal
 bindsym $mod+Shift+q kill
 
 # start rofi (not dmenu) (a program launcher)
-bindsym $mod+d exec rofi -sidebar-mode -show run
-bindsym $mod+Shift+d exec rofi -sidebar-mode -show drun
+bindsym $mod+d exec rofi -sidebar-mode -show drun
+bindsym $mod+Shift+d exec rofi -sidebar-mode -show run
 # There also is the (new) i3-dmenu-desktop which only displays applications
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
@@ -155,15 +155,18 @@ bindsym $mod+r mode "resize"
 bar {
         status_command i3status
 	position top
+	bindsym button4 nop
+	bindsym button5 nop
 }
 
 # Volume control
-bindsym XF86AudioRaiseVolume exec --no-startup-id amixer -q set Master 5%+ unmute
-bindsym XF86AudioLowerVolume exec --no-startup-id amixer -q set Master 5%- unmute
-bindsym XF86AudioMute exec --no-startup-id amixer -q set Master toggle
+bindsym XF86AudioRaiseVolume exec pactl set-sink-volume @DEFAULT_SINK@ +2%
+bindsym XF86AudioLowerVolume exec pactl set-sink-volume @DEFAULT_SINK@ -2%
+bindsym XF86AudioMute exec pactl set-sink-mute @DEFAULT_SINK@ toggle
 
 # Set all window borders
-new_window pixel 1
+new_window pixel 2
+hide_edge_borders smart
 new_float pixel 2
 
 # úprava barevného schématu
@@ -174,10 +177,11 @@ client.unfocused    #333333 #222222 #888888 #292d2e #222222
 focus_follows_mouse yes
 
 # spouštění programů klávesovými zkratkami
-bindsym $mod+Shift+f exec firefox
+bindsym $mod+Mod1+f exec firefox
 bindsym $mod+Escape exec i3lock -c 010D10
 
 # automaticky spustit příkazy
 exec ~/.fehbg # nastavit pozadí
-exec --no-startup-id steam -silent
 exec compton
+exec --no-startup-id steam -silent
+exec dropbox

@@ -1,0 +1,11 @@
+libraryDependencies snakeyaml
+-. . -..- - / . -. - .-. -.--
+compile
+-. . -..- - / . -. - .-. -.--
+run
+-. . -..- - / . -. - .-. -.--
+update
+-. . -..- - / . -. - .-. -.--
+projects
+-. . -..- - / . -. - .-. -.--
+reload

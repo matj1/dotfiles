@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"C Improved",
+		"CMake",
+		"EnhancedReadline",
+		"ExpandRegion",
+		"gruvbox",
+		"LaTeXTools",
+		"NeoVintageous",
+		"Package Control",
+		"Python 3"
+	]
+}

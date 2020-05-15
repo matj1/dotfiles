@@ -1,0 +1,39 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/repa/new">
+          <value>
+            <RecentProjectMetaInfo displayName="new, new-build" projectWorkspaceId="1WL3lem2GJP59Yt5BCyxF1uZEJz">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-201.6668.115" />
+              <option name="buildTimestamp" value="1586256106011" />
+              <frame x="0" y="20" width="2560" height="1420" extendedState="1" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1587042976526" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dokumenty/předměty/úvod_do_strojového_učení/projekt">
+          <value>
+            <RecentProjectMetaInfo displayName="projekt, úvod_do_strojového_učení" opened="true" projectWorkspaceId="1a2h3GHShysakn0DSvcNbtIwQEP">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-201.7223.92" />
+              <option name="buildTimestamp" value="1588223936536" />
+              <frame x="0" y="0" width="2560" height="1416" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1589472126291" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/repa" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Dokumenty/předměty/úvod_do_strojového_učení/projekt" />
+        <option value="$USER_HOME$/repa/new" />
+      </list>
+    </option>
+  </component>
+</application>

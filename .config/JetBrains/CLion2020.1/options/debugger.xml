@@ -1,0 +1,20 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views>
+      <sort-values>true</sort-values>
+    </data-views>
+    <general />
+    <debuggers>
+      <debugger id="ObjectiveC">
+        <configuration>
+          <option name="HEX_FORMATTING_ENABLED" value="true" />
+        </configuration>
+      </debugger>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+</application>

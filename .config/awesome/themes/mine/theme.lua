@@ -6,7 +6,7 @@ local awful = require("awful")
 
 local theme = {}
 
-theme.font          = "sans 8"
+theme.font          = "noto sans medium 9"
 
 theme.bg_normal     = "#222222"
 theme.bg_focus      = "#444444"
@@ -55,6 +55,7 @@ theme.menu_width  = 100
 -- you wish and access them by using
 -- beautiful.variable in your rc.lua
 --theme.bg_widget = "#cc0000"
+theme.wibox_height = 16
 
 -- Define the image to load
 theme.titlebar_close_button_normal = awful.util.getdir("config") .. "/themes/mine/titlebar/close_normal.png"
@@ -83,7 +84,7 @@ theme.titlebar_maximized_button_focus_inactive  = awful.util.getdir("config") ..
 theme.titlebar_maximized_button_normal_active = awful.util.getdir("config") .. "/themes/mine/titlebar/maximized_normal_active.png"
 theme.titlebar_maximized_button_focus_active  = awful.util.getdir("config") .. "/themes/mine/titlebar/maximized_focus_active.png"
 
-theme.wallpaper = awful.util.getdir("config") .. "/themes/mine/coal_mine.jpg"
+theme.wallpaper = awful.util.getdir("config") .. "/themes/mine/supercar.jpg"
 
 -- You can use your own layout icons like this:
 theme.layout_fairh = awful.util.getdir("config") .. "/themes/mine/layouts/fairhw.png"

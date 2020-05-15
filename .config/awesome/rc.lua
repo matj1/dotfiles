@@ -38,7 +38,7 @@ end
 
 -- {{{ Variable definitions
 --https://duckduckgo.com/?q=vim+text+edit+backward+doesn%27%27t+include+cursor&t=ffab&ia=qa Themes define colours, icons, font and wallpapers.
-theme_setting = "mine"
+theme_setting = "dark"
 beautiful.init(awful.util.getdir("config") .. "/themes/" .. theme_setting .. "/theme.lua")
 --beautiful.init("/home/matj1/.config/awesome/themes/" .. theme_setting .. "/theme.lua")
 
@@ -201,8 +201,12 @@ awful.screen.connect_for_each_screen(function(s)
     s.mytasklist = awful.widget.tasklist(s, awful.widget.tasklist.filter.currenttags, tasklist_buttons)
 
     -- Create the wibox
-    wibox_height = beautiful.wibox_height or 16
-    s.mywibox = awful.wibar({ position = "top", screen = s, height = wibox_height})
+    s.mywibox = awful.wibar({ position = "top",
+                              screen = s,
+                              height = beautiful.wibox_height or 16,
+                              border_width = beautiful.bar_border_width or 0,
+                              border_color = beautiful.bar_border_color or beautiful.fg_normal or "#000000"
+    })
 
     -- Add widgets to the wibox
     s.mywibox:setup {
@@ -316,7 +320,7 @@ globalkeys = awful.util.table.join(
               {description = "restore minimized", group = "client"}),
 
     -- Prompt
-    awful.key({ modkey },            "r",     function () awful.util.spawn("rofi -show run") end, -- changed from  default to rofi
+    awful.key({ modkey },            "r",     function () awful.util.spawn("rofi -show drun") end, -- changed from  default to rofi
               {description = "run prompt", group = "launcher"}),
 
     awful.key({ modkey }, "x",
@@ -338,6 +342,7 @@ globalkeys = awful.util.table.join(
     awful.key({modkey, "Mod1"}, "t", function() awful.util.spawn("thunar") end),
     awful.key({modkey, "Mod1"}, "l", function() awful.util.spawn("libreoffice") end),
     awful.key({modkey, "Mod1"}, "e", function() awful.util.spawn("emacs") end),
+    awful.key({modkey, "Mod1"}, "s", function() awful.util.spawn("spotify") end),
 
     -- Make a screenshot
     awful.key({ }, "Print", function()
@@ -481,7 +486,7 @@ awful.rules.rules = {
 
     -- Add titlebars to normal clients and dialogs
     { rule_any = {type = { "normal", "dialog" }
-      }, properties = { titlebars_enabled = true }
+      }, properties = { titlebars_enabled = false } -- povolení nebo zakázání titlebaru oken
     },
 
     -- Set Firefox to always map on the tag named "2" on screen 1.
@@ -547,6 +552,11 @@ client.connect_signal("request::titlebars", function(c)
         },
         layout = wibox.layout.align.horizontal
     }
+end)
+
+-- Vypnutí okrajů u maximalizovaných oken
+client.connect_signal("property::maximized", function(c)
+                              c.border_width = c.maximized and 0 or beautiful.border_width
 end)
 
 -- Enable sloppy focus, so that focus follows mouse.
